@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "bio-kallisto"
   gem.homepage = "http://github.com/homonecloco/bioruby-kallisto"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Basic wrapper for the Kallistio Mapper}
+  gem.description = %Q{Basic wrapper for the Kallistio Mapper}
   gem.email = "ricardo.ramirez-gonzalez@tgac.ac.uk"
   gem.authors = ["homonecloco"]
   # dependencies defined in Gemfile
